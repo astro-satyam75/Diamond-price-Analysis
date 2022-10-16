@@ -1,2 +1,3 @@
 # Diamond-price-Analysis
-EDA on diamond price dataset
+EDA on diamond price dataset.
+Perfoming univariate and multivariate analysis.
