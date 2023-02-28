@@ -32,5 +32,4 @@
    ![image](https://user-images.githubusercontent.com/46246463/221762779-4258c1d8-bb57-41b4-80f9-11182d3cb936.png)
 
 ##      5. CATPLOT VISUALIZATION FOR CLARITY, CUT AND COLOR OF THE DIAMONDS:
-   ![image](https://user-images.githubusercontent.com/46246463/221762800-d9a5be0e-0cb5-4f2f-9822-76bb74e73dd9.png)
- 
+   ![image](https://user-images.githubusercontent.com/46246463/221762898-589d56a6-6793-452a-983f-c59a3946b2ac.png)
